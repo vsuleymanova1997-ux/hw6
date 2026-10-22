@@ -1,0 +1,1826 @@
+[
+  {
+    "setup": "with_cache",
+    "document": "p01_bluehen_quote.html",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:39:37.256970+00:00",
+    "input_tokens": 10810,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10688,
+    "output_tokens": 26,
+    "api_usage_all_fields": {
+      "input_tokens": 10810,
+      "cache_write_tokens": 10688,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 26,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.0027276
+    },
+    "cost_usd": 0.0013612,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.001336,
+      "output": 1.3e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p01_bluehen_quote.html",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:39:37.415728+00:00",
+    "input_tokens": 10972,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10850,
+    "output_tokens": 167,
+    "api_usage_all_fields": {
+      "input_tokens": 10972,
+      "cache_write_tokens": 10850,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 167,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 65,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 65,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.0029373
+    },
+    "cost_usd": 0.00145195,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00135625,
+      "output": 8.35e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p02_elmcity_quote.html",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:39:38.678617+00:00",
+    "input_tokens": 10811,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10689,
+    "output_tokens": 39,
+    "api_usage_all_fields": {
+      "input_tokens": 10811,
+      "cache_write_tokens": 10689,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 39,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 6,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 6,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00274345
+    },
+    "cost_usd": 0.00136783,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00133613,
+      "output": 1.95e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p02_elmcity_quote.html",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:39:38.839441+00:00",
+    "input_tokens": 10974,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10658,
+    "cache_write_tokens": 194,
+    "output_tokens": 196,
+    "api_usage_all_fields": {
+      "input_tokens": 10974,
+      "cache_write_tokens": 194,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10658,
+      "output_tokens": 196,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 97,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 97,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00052126
+    },
+    "cost_usd": 0.00024103,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010658,
+      "cache_write": 2.425e-05,
+      "output": 9.8e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p03_ivyprint_catalog.html",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:39:40.101489+00:00",
+    "input_tokens": 10811,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10658,
+    "cache_write_tokens": 31,
+    "output_tokens": 27,
+    "api_usage_all_fields": {
+      "input_tokens": 10811,
+      "cache_write_tokens": 31,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10658,
+      "output_tokens": 27,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00027771
+    },
+    "cost_usd": 0.00013615,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010658,
+      "cache_write": 3.88e-06,
+      "output": 1.35e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p03_ivyprint_catalog.html",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:39:40.230651+00:00",
+    "input_tokens": 10971,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10689,
+    "cache_write_tokens": 160,
+    "output_tokens": 330,
+    "api_usage_all_fields": {
+      "input_tokens": 10971,
+      "cache_write_tokens": 160,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10689,
+      "output_tokens": 330,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 254,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 254,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00067418
+    },
+    "cost_usd": 0.00030409,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010689,
+      "cache_write": 2e-05,
+      "output": 0.000165
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p04_harborstitch_quote.html",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:39:41.493485+00:00",
+    "input_tokens": 10813,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10658,
+    "cache_write_tokens": 33,
+    "output_tokens": 29,
+    "api_usage_all_fields": {
+      "input_tokens": 10813,
+      "cache_write_tokens": 33,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10658,
+      "output_tokens": 29,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00028061
+    },
+    "cost_usd": 0.00013741,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010658,
+      "cache_write": 4.13e-06,
+      "output": 1.45e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p04_harborstitch_quote.html",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:39:41.679757+00:00",
+    "input_tokens": 10962,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10691,
+    "cache_write_tokens": 149,
+    "output_tokens": 117,
+    "api_usage_all_fields": {
+      "input_tokens": 10962,
+      "cache_write_tokens": 149,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10691,
+      "output_tokens": 117,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 40,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 40,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00041587
+    },
+    "cost_usd": 0.00019623,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010691,
+      "cache_write": 1.862e-05,
+      "output": 5.85e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p05_maplemills_quote.pdf",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:39:42.968171+00:00",
+    "input_tokens": 10811,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10658,
+    "cache_write_tokens": 31,
+    "output_tokens": 27,
+    "api_usage_all_fields": {
+      "input_tokens": 10811,
+      "cache_write_tokens": 31,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10658,
+      "output_tokens": 27,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00027771
+    },
+    "cost_usd": 0.00013615,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010658,
+      "cache_write": 3.88e-06,
+      "output": 1.35e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p05_maplemills_quote.pdf",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:39:43.138503+00:00",
+    "input_tokens": 10938,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10658,
+    "cache_write_tokens": 158,
+    "output_tokens": 127,
+    "api_usage_all_fields": {
+      "input_tokens": 10938,
+      "cache_write_tokens": 158,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10658,
+      "output_tokens": 127,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 46,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 46,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00042946
+    },
+    "cost_usd": 0.00020203,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010658,
+      "cache_write": 1.975e-05,
+      "output": 6.35e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p06_qtextile_quote.pdf",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:39:44.425999+00:00",
+    "input_tokens": 10811,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10658,
+    "cache_write_tokens": 31,
+    "output_tokens": 27,
+    "api_usage_all_fields": {
+      "input_tokens": 10811,
+      "cache_write_tokens": 31,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10658,
+      "output_tokens": 27,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00027771
+    },
+    "cost_usd": 0.00013615,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010658,
+      "cache_write": 3.88e-06,
+      "output": 1.35e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p06_qtextile_quote.pdf",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:39:44.553801+00:00",
+    "input_tokens": 10982,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10689,
+    "cache_write_tokens": 171,
+    "output_tokens": 139,
+    "api_usage_all_fields": {
+      "input_tokens": 10982,
+      "cache_write_tokens": 171,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10689,
+      "output_tokens": 139,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 54,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 54,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00044773
+    },
+    "cost_usd": 0.00020996,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010689,
+      "cache_write": 2.138e-05,
+      "output": 6.95e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p07_longwharf_quote.pdf",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:39:45.794715+00:00",
+    "input_tokens": 10811,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10658,
+    "cache_write_tokens": 31,
+    "output_tokens": 27,
+    "api_usage_all_fields": {
+      "input_tokens": 10811,
+      "cache_write_tokens": 31,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10658,
+      "output_tokens": 27,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00027771
+    },
+    "cost_usd": 0.00013615,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010658,
+      "cache_write": 3.88e-06,
+      "output": 1.35e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p07_longwharf_quote.pdf",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:39:45.925622+00:00",
+    "input_tokens": 10957,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10689,
+    "cache_write_tokens": 146,
+    "output_tokens": 184,
+    "api_usage_all_fields": {
+      "input_tokens": 10957,
+      "cache_write_tokens": 146,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10689,
+      "output_tokens": 184,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 67,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 67,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00049548
+    },
+    "cost_usd": 0.00022934,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010689,
+      "cache_write": 1.825e-05,
+      "output": 9.2e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p08_chapelst_email.eml",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:39:47.725274+00:00",
+    "input_tokens": 10812,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10658,
+    "cache_write_tokens": 32,
+    "output_tokens": 28,
+    "api_usage_all_fields": {
+      "input_tokens": 10812,
+      "cache_write_tokens": 32,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10658,
+      "output_tokens": 28,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00027916
+    },
+    "cost_usd": 0.00013678,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010658,
+      "cache_write": 4e-06,
+      "output": 1.4e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p08_chapelst_email.eml",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:39:47.849591+00:00",
+    "input_tokens": 10956,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10834,
+    "output_tokens": 157,
+    "api_usage_all_fields": {
+      "input_tokens": 10956,
+      "cache_write_tokens": 10834,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 157,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 47,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 47,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.0029213
+    },
+    "cost_usd": 0.00144495,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00135425,
+      "output": 7.85e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p09_westville_email.eml",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:39:49.082314+00:00",
+    "input_tokens": 10812,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10658,
+    "cache_write_tokens": 32,
+    "output_tokens": 28,
+    "api_usage_all_fields": {
+      "input_tokens": 10812,
+      "cache_write_tokens": 32,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10658,
+      "output_tokens": 28,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00027916
+    },
+    "cost_usd": 0.00013678,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010658,
+      "cache_write": 4e-06,
+      "output": 1.4e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p09_westville_email.eml",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:39:49.216487+00:00",
+    "input_tokens": 11090,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10690,
+    "cache_write_tokens": 278,
+    "output_tokens": 250,
+    "api_usage_all_fields": {
+      "input_tokens": 11090,
+      "cache_write_tokens": 278,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10690,
+      "output_tokens": 250,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 135,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 135,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.0006077
+    },
+    "cost_usd": 0.00027885,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0001069,
+      "cache_write": 3.475e-05,
+      "output": 0.000125
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p10_eastrock_email.eml",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:39:50.472429+00:00",
+    "input_tokens": 10812,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10658,
+    "cache_write_tokens": 32,
+    "output_tokens": 28,
+    "api_usage_all_fields": {
+      "input_tokens": 10812,
+      "cache_write_tokens": 32,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10658,
+      "output_tokens": 28,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00027916
+    },
+    "cost_usd": 0.00013678,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010658,
+      "cache_write": 4e-06,
+      "output": 1.4e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p10_eastrock_email.eml",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:39:50.660962+00:00",
+    "input_tokens": 10975,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10690,
+    "cache_write_tokens": 163,
+    "output_tokens": 160,
+    "api_usage_all_fields": {
+      "input_tokens": 10975,
+      "cache_write_tokens": 163,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10690,
+      "output_tokens": 160,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 44,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 44,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00047095
+    },
+    "cost_usd": 0.00021948,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0001069,
+      "cache_write": 2.038e-05,
+      "output": 8e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p11_yorkst_quote.html",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:39:51.911192+00:00",
+    "input_tokens": 10811,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10658,
+    "cache_write_tokens": 31,
+    "output_tokens": 27,
+    "api_usage_all_fields": {
+      "input_tokens": 10811,
+      "cache_write_tokens": 31,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10658,
+      "output_tokens": 27,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00027771
+    },
+    "cost_usd": 0.00013615,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010658,
+      "cache_write": 3.88e-06,
+      "output": 1.35e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p11_yorkst_quote.html",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:39:52.060536+00:00",
+    "input_tokens": 10936,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10689,
+    "cache_write_tokens": 125,
+    "output_tokens": 134,
+    "api_usage_all_fields": {
+      "input_tokens": 10936,
+      "cache_write_tokens": 125,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10689,
+      "output_tokens": 134,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 46,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 46,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00043023
+    },
+    "cost_usd": 0.00020172,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010689,
+      "cache_write": 1.563e-05,
+      "output": 6.7e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p12_bluehen_quote.pdf",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:39:53.289565+00:00",
+    "input_tokens": 10810,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10658,
+    "cache_write_tokens": 30,
+    "output_tokens": 26,
+    "api_usage_all_fields": {
+      "input_tokens": 10810,
+      "cache_write_tokens": 30,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10658,
+      "output_tokens": 26,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00027626
+    },
+    "cost_usd": 0.00013553,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010658,
+      "cache_write": 3.75e-06,
+      "output": 1.3e-05
+    }
+  },
+  {
+    "setup": "with_cache",
+    "document": "p12_bluehen_quote.pdf",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:39:53.410133+00:00",
+    "input_tokens": 10956,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 10688,
+    "cache_write_tokens": 146,
+    "output_tokens": 172,
+    "api_usage_all_fields": {
+      "input_tokens": 10956,
+      "cache_write_tokens": 146,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 10688,
+      "output_tokens": 172,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 68,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 68,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00048106
+    },
+    "cost_usd": 0.00022333,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.00010688,
+      "cache_write": 1.825e-05,
+      "output": 8.6e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p01_bluehen_quote.html",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:39:56.284533+00:00",
+    "input_tokens": 10834,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10712,
+    "output_tokens": 26,
+    "api_usage_all_fields": {
+      "input_tokens": 10834,
+      "cache_write_tokens": 10712,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 26,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.0027336
+    },
+    "cost_usd": 0.0013642,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.001339,
+      "output": 1.3e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p01_bluehen_quote.html",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:39:58.218956+00:00",
+    "input_tokens": 10993,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10871,
+    "output_tokens": 171,
+    "api_usage_all_fields": {
+      "input_tokens": 10993,
+      "cache_write_tokens": 10871,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 171,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 72,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 72,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00294735
+    },
+    "cost_usd": 0.00145658,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00135888,
+      "output": 8.55e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p02_elmcity_quote.html",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:40:01.541713+00:00",
+    "input_tokens": 10836,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10714,
+    "output_tokens": 27,
+    "api_usage_all_fields": {
+      "input_tokens": 10836,
+      "cache_write_tokens": 10714,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 27,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.0027353
+    },
+    "cost_usd": 0.00136495,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00133925,
+      "output": 1.35e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p02_elmcity_quote.html",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:40:03.752116+00:00",
+    "input_tokens": 10997,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10875,
+    "output_tokens": 155,
+    "api_usage_all_fields": {
+      "input_tokens": 10997,
+      "cache_write_tokens": 10875,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 155,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 54,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 54,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00292915
+    },
+    "cost_usd": 0.00144907,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00135937,
+      "output": 7.75e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p03_ivyprint_catalog.html",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:40:07.260448+00:00",
+    "input_tokens": 10837,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10715,
+    "output_tokens": 27,
+    "api_usage_all_fields": {
+      "input_tokens": 10837,
+      "cache_write_tokens": 10715,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 27,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00273555
+    },
+    "cost_usd": 0.00136508,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00133938,
+      "output": 1.35e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p03_ivyprint_catalog.html",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:40:09.709673+00:00",
+    "input_tokens": 10993,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10871,
+    "output_tokens": 168,
+    "api_usage_all_fields": {
+      "input_tokens": 10993,
+      "cache_write_tokens": 10871,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 168,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 75,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 75,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00294375
+    },
+    "cost_usd": 0.00145508,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00135888,
+      "output": 8.4e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p04_harborstitch_quote.html",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:40:16.193064+00:00",
+    "input_tokens": 10838,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10716,
+    "output_tokens": 29,
+    "api_usage_all_fields": {
+      "input_tokens": 10838,
+      "cache_write_tokens": 10716,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 29,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.0027382
+    },
+    "cost_usd": 0.0013662,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.0013395,
+      "output": 1.45e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p04_harborstitch_quote.html",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:40:18.834236+00:00",
+    "input_tokens": 10986,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10864,
+    "output_tokens": 158,
+    "api_usage_all_fields": {
+      "input_tokens": 10986,
+      "cache_write_tokens": 10864,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 158,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 43,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 43,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00293
+    },
+    "cost_usd": 0.0014492,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.001358,
+      "output": 7.9e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p05_maplemills_quote.pdf",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:40:21.496534+00:00",
+    "input_tokens": 10834,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10712,
+    "output_tokens": 27,
+    "api_usage_all_fields": {
+      "input_tokens": 10834,
+      "cache_write_tokens": 10712,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 27,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.0027348
+    },
+    "cost_usd": 0.0013647,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.001339,
+      "output": 1.35e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p05_maplemills_quote.pdf",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:40:23.234346+00:00",
+    "input_tokens": 10960,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10838,
+    "output_tokens": 129,
+    "api_usage_all_fields": {
+      "input_tokens": 10960,
+      "cache_write_tokens": 10838,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 129,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 48,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 48,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.0028887
+    },
+    "cost_usd": 0.00143145,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00135475,
+      "output": 6.45e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p06_qtextile_quote.pdf",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:40:25.649523+00:00",
+    "input_tokens": 10832,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10710,
+    "output_tokens": 27,
+    "api_usage_all_fields": {
+      "input_tokens": 10832,
+      "cache_write_tokens": 10710,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 27,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.0027343
+    },
+    "cost_usd": 0.00136445,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00133875,
+      "output": 1.35e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p06_qtextile_quote.pdf",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:40:27.714716+00:00",
+    "input_tokens": 11008,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10886,
+    "output_tokens": 117,
+    "api_usage_all_fields": {
+      "input_tokens": 11008,
+      "cache_write_tokens": 10886,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 117,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 35,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 35,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.0028863
+    },
+    "cost_usd": 0.00143145,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00136075,
+      "output": 5.85e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p07_longwharf_quote.pdf",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:40:30.113682+00:00",
+    "input_tokens": 10834,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10712,
+    "output_tokens": 27,
+    "api_usage_all_fields": {
+      "input_tokens": 10834,
+      "cache_write_tokens": 10712,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 27,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.0027348
+    },
+    "cost_usd": 0.0013647,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.001339,
+      "output": 1.35e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p07_longwharf_quote.pdf",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:40:32.505327+00:00",
+    "input_tokens": 10984,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10862,
+    "output_tokens": 168,
+    "api_usage_all_fields": {
+      "input_tokens": 10984,
+      "cache_write_tokens": 10862,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 168,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 49,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 49,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.0029415
+    },
+    "cost_usd": 0.00145395,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00135775,
+      "output": 8.4e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p08_chapelst_email.eml",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:40:35.252240+00:00",
+    "input_tokens": 10835,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10713,
+    "output_tokens": 28,
+    "api_usage_all_fields": {
+      "input_tokens": 10835,
+      "cache_write_tokens": 10713,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 28,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00273625
+    },
+    "cost_usd": 0.00136533,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00133913,
+      "output": 1.4e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p08_chapelst_email.eml",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:40:37.081666+00:00",
+    "input_tokens": 10977,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10855,
+    "output_tokens": 134,
+    "api_usage_all_fields": {
+      "input_tokens": 10977,
+      "cache_write_tokens": 10855,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 134,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 31,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 31,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00289895
+    },
+    "cost_usd": 0.00143607,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00135688,
+      "output": 6.7e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p09_westville_email.eml",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:40:39.904629+00:00",
+    "input_tokens": 10835,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10713,
+    "output_tokens": 28,
+    "api_usage_all_fields": {
+      "input_tokens": 10835,
+      "cache_write_tokens": 10713,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 28,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00273625
+    },
+    "cost_usd": 0.00136533,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00133913,
+      "output": 1.4e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p09_westville_email.eml",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:40:42.717904+00:00",
+    "input_tokens": 11113,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10991,
+    "output_tokens": 223,
+    "api_usage_all_fields": {
+      "input_tokens": 11113,
+      "cache_write_tokens": 10991,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 223,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 114,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 114,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00303975
+    },
+    "cost_usd": 0.00149758,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00137388,
+      "output": 0.0001115
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p10_eastrock_email.eml",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:40:45.505990+00:00",
+    "input_tokens": 10836,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10714,
+    "output_tokens": 28,
+    "api_usage_all_fields": {
+      "input_tokens": 10836,
+      "cache_write_tokens": 10714,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 28,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.0027365
+    },
+    "cost_usd": 0.00136545,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00133925,
+      "output": 1.4e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p10_eastrock_email.eml",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:40:47.759840+00:00",
+    "input_tokens": 10999,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10877,
+    "output_tokens": 175,
+    "api_usage_all_fields": {
+      "input_tokens": 10999,
+      "cache_write_tokens": 10877,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 175,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 61,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 61,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00295365
+    },
+    "cost_usd": 0.00145933,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00135962,
+      "output": 8.75e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p11_yorkst_quote.html",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:40:50.311460+00:00",
+    "input_tokens": 10835,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10713,
+    "output_tokens": 27,
+    "api_usage_all_fields": {
+      "input_tokens": 10835,
+      "cache_write_tokens": 10713,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 27,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00273505
+    },
+    "cost_usd": 0.00136483,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00133913,
+      "output": 1.35e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p11_yorkst_quote.html",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:40:52.931620+00:00",
+    "input_tokens": 10964,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10842,
+    "output_tokens": 135,
+    "api_usage_all_fields": {
+      "input_tokens": 10964,
+      "cache_write_tokens": 10842,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 135,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 47,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 47,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.0028969
+    },
+    "cost_usd": 0.00143495,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00135525,
+      "output": 6.75e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p12_bluehen_quote.pdf",
+    "call_in_run": 1,
+    "timestamp": "2026-10-22T03:40:55.311761+00:00",
+    "input_tokens": 10835,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10713,
+    "output_tokens": 26,
+    "api_usage_all_fields": {
+      "input_tokens": 10835,
+      "cache_write_tokens": 10713,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 26,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 0,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.00273385
+    },
+    "cost_usd": 0.00136432,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.00133913,
+      "output": 1.3e-05
+    }
+  },
+  {
+    "setup": "without_cache",
+    "document": "p12_bluehen_quote.pdf",
+    "call_in_run": 2,
+    "timestamp": "2026-10-22T03:40:58.014455+00:00",
+    "input_tokens": 10978,
+    "uncached_input_tokens": 122,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10856,
+    "output_tokens": 179,
+    "api_usage_all_fields": {
+      "input_tokens": 10978,
+      "cache_write_tokens": 10856,
+      "cache_write_1h_tokens": 0,
+      "cache_read_tokens": 0,
+      "output_tokens": 179,
+      "unmeasured_requests": 0,
+      "output_reasoning_tokens": 67,
+      "input_audio_tokens": 0,
+      "cache_audio_read_tokens": 0,
+      "output_audio_tokens": 0,
+      "audio_seconds": 0,
+      "details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 67,
+        "rejected_prediction_tokens": 0
+      },
+      "cost": 0.0029532
+    },
+    "cost_usd": 0.0014587,
+    "cost_breakdown_usd": {
+      "uncached_input": 1.22e-05,
+      "cached_input": 0.0,
+      "cache_write": 0.001357,
+      "output": 8.95e-05
+    }
+  }
+]
